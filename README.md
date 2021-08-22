@@ -16,5 +16,5 @@
 2. Clone this repository in your terminal
     - git clone https://github.com/RA1990/apple-landing-page.git
 
-3. Navigate into the /movie-match directory
+3. Navigate into the /assets
     - Open the index.html file and enjoy!
