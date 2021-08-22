@@ -1,4 +1,4 @@
-# Apple iphone landing simple landing page
+# Apple iphone simple landing page
 
 ## Tech stack
 
