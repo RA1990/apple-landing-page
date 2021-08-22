@@ -7,7 +7,6 @@
 - HTML
 - CSS
 - responsive design
-- object oriented programming principles.
 
 # Initial Setup
 1. Fork this repo and clone your fork from your terminal
